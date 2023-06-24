@@ -1,1 +1,1 @@
-# react-native-with-stripe-sdk
+# react-native-with-stripe-sdk-integration
